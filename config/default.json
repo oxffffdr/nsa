@@ -1,0 +1,7 @@
+{
+    "port" : 5000,
+    "mdbConn": "mssql://sa:lskdvu@localhost:3306/nsa",
+    "mongoUri": "mongodb+srv://admin:1a2b3c@cluster0.uud24.mongodb.net/NasaServer",
+    "jwtSecret": "kdjscjis-ke@lp[f",
+    "baseUrl": "http:/localhost:5000"
+}
